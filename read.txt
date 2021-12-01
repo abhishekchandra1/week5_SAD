@@ -1,0 +1,8 @@
+1)Download the raw file
+2)Open an IDE for python preferably Visual Studio
+3)Upload the raw file
+4)Go to terminal and type: "python manage.py runserver"
+5)After running it, below you will find an http link, click on it
+6)You will be able to see the message with the date.
+
+Thank you.
